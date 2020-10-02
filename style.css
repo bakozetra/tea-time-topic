@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+}
+main {
+  display: grid;
+  grid-template-columns: repeat(3 , 1fr);
+  background-color: #f8f5f2;
+}
+.container {
+  grid-column: 2;
+}
+article {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 600px;
+  background-color:#fffffe ;
+  margin-bottom: 2rem;
+}
+
+img {
+  width : 25px;
+  color:#078080;
+}
+button {
+  width: 35px;
+  height: 30px;
+  border: none;
+  background-color: #078080;
+}
+.submit {
+  position: absolute;
+  right: 0.5rem;
+  top: 0.5rem;
+}
+
+p {
+  width: 500px;
+}
+.buttonType {
+   display: flex;
+}
+.button {
+  display: flex;
+}

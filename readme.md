@@ -60,10 +60,24 @@ Here's a list of details that I'll check, for grading your project. Use it to gu
 ### Student report
 
 -   Can you explain the structure of your files?
--   Any project improvements possible?
+1) First of all , I have added an html on the index html for the form and submit button.
+2) I put my code in one big function.
+2) I fetched the API on the first step and then I put them in the locaStorage.
+3) I map through the API which I have fetched and add html on the function which I put them.
+4) After that , I create a function to get the input from the html , I push the input into
+an array.
+
+-Any project improvements possible?
+I would like to make the id define so that I can add the increment on thumb-up and thumb down.
+ If I have finished that, If I have time , I would like to make the API to put them in two places in the past topic and new topic . 
+
 -   What was your experience?
+  
+
 -   What have you learned/improved?
+
 -   Any wisdom to share? :)
+
 
 Fork this repo and clone your fork. You have until 16h30 to complete the project. Stop coding a bit earlier to take some time documenting your project in the readme.
 
